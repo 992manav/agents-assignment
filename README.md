@@ -3,7 +3,11 @@
 ## 📋 Project Overview
 
 This project implements a **context-aware interruption handling system** for LiveKit voice agents. The system intelligently distinguishes between passive acknowledgements (backchanneling) and active interruptions, ensuring natural conversational flow without unwanted pauses or stops.
-<video controls src="video (2).mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/2869fcb4-9b00-4744-ada5-bb9f47413849
+
+
 
 ### The Problem
 
