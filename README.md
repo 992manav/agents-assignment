@@ -120,7 +120,6 @@ agents-assignment/
 ├── examples/
 │   └── voice_agents/
 │       ├── basic_agent.py           # Main agent implementation (RUN THIS)
-│       ├── interrupt_handler.py     # Alternative handler implementation
 │       ├── testcontroller.py        # Controller testing utilities
 │       ├── trial1.py, trial3.py     # Development iterations
 │       └── requirements.txt         # Python dependencies
