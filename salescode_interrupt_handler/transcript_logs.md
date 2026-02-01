@@ -28,7 +28,7 @@ venv) PS C:\Users\manav\Videos\liv\agents-assignment\examples\voice_agents> pyth
 
 "tokens_per_second": 18.24, "room": "console"}
 16:51:24.157 DEBUG… livekit.….deepgram Established new Deepgram TTS WebSocket connection:  
- {"headers": {"dg-project-id": "5d94b310-8b03-408f-9b4a-dce7c4fda917", "dg-request-id": "bf307b4e-fb18-43ad-b850-ef12068acb89", "Date": "Sat, 31 Jan 2026 11:21:25  
+ {"headers": {"dg-project-id": "<redacted>", "dg-request-id": "<redacted>", "Date": "Sat, 31 Jan 2026 11:21:25  
 GMT"}, "room": "console"}
 16:51:24.479 INFO … livekit.agents STT metrics {"model_name": "deepgram/nova-3", "model_provider": "livekit", "audio_duration": 1.05, "room": "console"}
 16:51:24.899 DEBUG… salescod…ntroller2 Agent state: thinking → speaking {"room": "console"}
